@@ -31,5 +31,3 @@ const copyList = ["me", "job", "company", "desc"];
 ```
 
 #### Try it out
-
-![1706838867071](https://file+.vscode-resource.vscode-cdn.net/Users/dthess/Documents/sandbox/career/resume-example/image/README/1706838867071.png)
