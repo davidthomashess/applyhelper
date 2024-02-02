@@ -1,0 +1,22 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  color: #eeeeee;
+  background-color: #222;
+}
+
+.button {
+  text-align: left;
+  color: orange;
+  background-color: maroon;
+  cursor: pointer;
+}
+
+.button:active {
+  color: maroon;
+  background-color: orange;
+  cursor: pointer;
+}
+
+.inputs {
+  font-family: monospace, monospace;
+}
